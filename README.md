@@ -143,8 +143,8 @@ This dashboard, titled "Drive Green: ELECTRIC VEHICLE ANALYSIS," provides a comp
   -A map of the United States highlighting the distribution of EVs across different states, providing a geographical perspective on EV adoption.
 
 
-- Usage
+- Usage:
     This dashboard is designed for stakeholders and enthusiasts in the electric vehicle industry, including policymakers, manufacturers, and consumers. It can help identify trends, compare the performance of different EV models, and understand the impact of EVs in various regions.
 
-- Dataset
+- Dataset:
     Uploaded in files section.
