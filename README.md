@@ -117,7 +117,7 @@ This dashboard, titled "Drive Green: ELECTRIC VEHICLE ANALYSIS," provides a comp
         4. City
 
   
-- Key Metrics and Visualizations:
+### Key Metrics and Visualizations:
   
   -The total number of electric vehicles (EVs) in the dataset, with a figure of 150.48K.
   
@@ -143,8 +143,8 @@ This dashboard, titled "Drive Green: ELECTRIC VEHICLE ANALYSIS," provides a comp
   -A map of the United States highlighting the distribution of EVs across different states, providing a geographical perspective on EV adoption.
 
 
-- Usage:
-    This dashboard is designed for stakeholders and enthusiasts in the electric vehicle industry, including policymakers, manufacturers, and consumers. It can help identify trends, compare the performance of different EV models, and understand the impact of EVs in various regions.
+### Usage:
+This dashboard is designed for stakeholders and enthusiasts in the electric vehicle industry, including policymakers, manufacturers, and consumers. It can help identify trends, compare the performance of different EV models, and understand the impact of EVs in various regions.
 
-- Dataset:
-    (https://drive.google.com/file/d/13-V3vR2QWJKjV1wzIElVTqgziOZ-YrCn/view?usp=sharing)
+### Dataset:
+https://drive.google.com/file/d/13-V3vR2QWJKjV1wzIElVTqgziOZ-YrCn/view?usp=sharing
