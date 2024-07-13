@@ -25,31 +25,38 @@ This dashboard, titled "Drive Green: ELECTRIC VEHICLE ANALYSIS," provides a comp
 a. Total Vehicles -
     Card
     Fields = Count of DOL Vehicle ID
+  
 b. Average Electric Range -
     Card
     Fields = Avg Range KPI
+    
 c. Total Vehicles by Model Year (2010 onwards) -
     Area chart
     X-axis = Model Year
     Y-axis = Count of DOL Vehicle ID
-    From Filters pane, select only years after 2009
+    From Filters pane, select only years after 2009.
+    
 d. Top 10 Total Vehicles by Model -
     Treemap
     Category = Model
     Values = Count of DOL Vehicle ID
+    
 e. Top 10 Vehicles by Make -
     Stacked bar chart
     Y-axis = Make
     X-axis = Count of DOL Vehicle ID
     From Filters pane, Apply filter to 'Make' by selecting Filter Type Top N and set value as Count of DOL Vehicle ID.
+    
 f. Vehicle by CAFV Eligibility -
     Pie chart
     Legend = CAFV Check
     Values = Count of CAFV Check
+    
 g. Total Vehicle by State -
     Shape map
     Location = State
     Color Saturation = Count of DOL Vehicle ID
+    
 h. Vehicle Type Distribution 1 -
     Donut chart
     Legend = Electric Type Vehicle Acronym
@@ -58,6 +65,7 @@ h. Vehicle Type Distribution 1 -
     Card
     Fields = BEV KPI
     Fields = BEV %age
+    
 i. Vehicle Type Distribution 2 -
     Donut chart
     Legend = Electric Type Vehicle Acronym
@@ -66,6 +74,7 @@ i. Vehicle Type Distribution 2 -
     Card
     Fields = PHEV KPI
     Fields = PHEV %age
+    
 j. Filters -
     1. Electric Utility
     2. Make
