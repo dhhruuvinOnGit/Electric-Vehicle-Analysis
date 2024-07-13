@@ -147,4 +147,4 @@ This dashboard, titled "Drive Green: ELECTRIC VEHICLE ANALYSIS," provides a comp
     This dashboard is designed for stakeholders and enthusiasts in the electric vehicle industry, including policymakers, manufacturers, and consumers. It can help identify trends, compare the performance of different EV models, and understand the impact of EVs in various regions.
 
 - Dataset:
-    Uploaded in files section.
+    (https://drive.google.com/file/d/13-V3vR2QWJKjV1wzIElVTqgziOZ-YrCn/view?usp=sharing)
