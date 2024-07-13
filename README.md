@@ -115,3 +115,36 @@ This dashboard, titled "Drive Green: ELECTRIC VEHICLE ANALYSIS," provides a comp
         2. Make
         3. Model Year
         4. City
+
+  
+- Key Metrics and Visualizations:
+  
+  -The total number of electric vehicles (EVs) in the dataset, with a figure of 150.48K.
+  
+  -Average electric range of the vehicles is 67.88 kms.
+  
+  -BEVs (Battery Electric Vehicles): 117K, which is 77.6% of the total EVs.
+   PHEVs (Plug-in Hybrid Electric Vehicles): 34K, which is 22.4% of the total EVs.
+  
+  -A line chart that shows the growth of EVs from 2010 onwards. The chart highlights significant growth over the years, peaking at 37K in 2023.
+  
+  -A treemap visualization showcasing the top 10 EV models by total number of vehicles. Notable models include:
+  Model Y: 28.50K
+  Model 3: 27.71K
+  LEAF: 13.19K
+  
+  -A bar chart indicating the top vehicle manufacturers by the number of EVs. Tesla leads with 69K vehicles, followed by Nissan with 13K and Chevrolet with 12K.
+  
+  -A pie chart that classifies vehicles based on CAFV eligibility:
+  Unknown (Battery not researched): 17.83K (11.85%)
+  Eligible: 62.95K (41.83%)
+  Not Eligible: 69.7K (46.32%)
+  
+  -A map of the United States highlighting the distribution of EVs across different states, providing a geographical perspective on EV adoption.
+
+
+- Usage
+    This dashboard is designed for stakeholders and enthusiasts in the electric vehicle industry, including policymakers, manufacturers, and consumers. It can help identify trends, compare the performance of different EV models, and understand the impact of EVs in various regions.
+
+- Dataset
+    Uploaded in files section.
